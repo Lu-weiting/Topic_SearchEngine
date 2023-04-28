@@ -25,5 +25,5 @@
 > <https://youtu.be/W88wxAkF9H8>
 
 > Some diagram 
->> ![521-5.png](https://github.com/Lu-weiting/ImageRepository/master/512-5.png)
+>> ![521-5.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-5.png)
 >>
