@@ -25,4 +25,5 @@
 > <https://youtu.be/W88wxAkF9H8>
 
 > Some diagram 
->> ![1.png](./ImageRepository/1.png)
+>> ![1.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/1.png)
+
