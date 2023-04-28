@@ -25,5 +25,9 @@
 > <https://youtu.be/W88wxAkF9H8>
 
 > Some diagram 
->> ![521-5.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-5.png)
->>
+>> ![512-5.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-5.png)
+>> ![512.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512.png)
+>> ![521-1.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-1.png)
+>> ![521-2.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-2.png)
+>> ![521-3.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-3.png)
+>> ![521-4.png](https://raw.githubusercontent.com/Lu-weiting/ImageRepository/master/512-4.png)
