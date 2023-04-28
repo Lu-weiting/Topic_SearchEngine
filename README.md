@@ -25,4 +25,4 @@
 > <https://youtu.be/W88wxAkF9H8>
 
 > Some diagram 
->> 
+>> ![1.png](./ImageRepository/1.png)
